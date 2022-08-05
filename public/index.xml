@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>willjasen&#39;s dna</title>
+    <link>/</link>
+    <description>Recent content on willjasen&#39;s dna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNA</title>
+      <link>/dna/</link>
+      <pubDate>Thu, 04 Aug 2022 23:46:59 -0400</pubDate>
+      
+      <guid>/dna/</guid>
+      <description>Here&amp;rsquo;s a link: https://ipfs.io/ipfs/QmNotd3CsD6pqV69YKjtvbRfA5DbkynaMoaDNuU334CM1M</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "willjasen's dna"
+theme = "ananke"
+relativeURLS=true
