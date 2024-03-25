@@ -5,7 +5,7 @@ draft: false
 ---
 Some people might ask, "why?" - and I say because why not
 
-This data was generated as a result of a 23andMe test performed in 2014
+This data was generated as a result of a 23andMe test performed in 2013
 
 The file at the link below is in the tab-separated values format (it is not compressed)
 
